@@ -58,3 +58,5 @@ export PYTHONPATH="~/mx-sdk-py-cli"
 ```
 
 Then `mxpy` will use the code in your local repository.
+
+<!-- Auto-update: 2025-10-18T13:47:07.903154 -->
